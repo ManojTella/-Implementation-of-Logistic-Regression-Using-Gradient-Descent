@@ -93,6 +93,7 @@ plt.show()
 ![img1](https://user-images.githubusercontent.com/94883876/173859916-ce424505-7457-44f8-a3b9-4c0fa1ca2bee.jpg)
 ![img2](https://user-images.githubusercontent.com/94883876/173859942-27450cc9-6daa-4e72-ae9e-3ff1afada440.jpg)
 ![img3](https://user-images.githubusercontent.com/94883876/173859962-dd287c91-9043-410b-9048-82d5784507d1.jpg)
+Accuracy Score:
 ![img4](https://user-images.githubusercontent.com/94883876/173859992-e623ac87-e4fc-41c8-8d3f-7f341b737de0.jpg)
 ![img5](https://user-images.githubusercontent.com/94883876/173860012-cab7135d-f9c0-43fa-bfb1-53056663361d.jpg)
 ![img6](https://user-images.githubusercontent.com/94883876/173860029-c2772a26-debf-4326-8d17-56647c5e61a0.jpg)

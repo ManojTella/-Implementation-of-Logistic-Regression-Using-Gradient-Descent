@@ -17,7 +17,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 7. Plot the training set results.
 
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Manoj Guna Sundar Tella.

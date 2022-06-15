@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Import the required packages.
+
 2. Read the given dataset and assign x and y array.
+
 3. Split x and y into training and test set.
+
 4. Scale the x variables.
+
 5. Fit the logistic regression for the training set to predict y.
+
 6. Create the confusion matrix and find the accuracy score, recall sensitivity and specificity.
+
 7. Plot the training set results.
 
 ## Program:

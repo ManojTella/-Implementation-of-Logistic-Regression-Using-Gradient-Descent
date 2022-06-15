@@ -8,19 +8,26 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-### Step 1: Import the required packages.
+### Step 1:
+Import the required packages.
 
-### Step 2: Read the given dataset and assign x and y array.
+### Step 2:
+Read the given dataset and assign x and y array.
 
-### Step 3: Split x and y into training and test set.
+### Step 3:
+Split x and y into training and test set.
 
-### Step 4: Scale the x variables.
+### Step 4:
+Scale the x variables.
 
-### Step 5: Fit the logistic regression for the training set to predict y.
+### Step 5:
+Fit the logistic regression for the training set to predict y.
 
-### Step 6: Create the confusion matrix and find the accuracy score, recall sensitivity and specificity.
+### Step 6:
+Create the confusion matrix and find the accuracy score, recall sensitivity and specificity.
 
-### Step 7: Plot the training set results.
+### Step 7:
+Plot the training set results.
 
 ## Program:
 ```python
